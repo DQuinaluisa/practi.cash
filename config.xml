@@ -9,4 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <access origin="https://www.ticketfacil.ec"/>
 </widget>
+
+<gap:plugin name="cordova-plugin-whitelist" source="npm"/>
